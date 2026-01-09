@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "description": "Finish my project",
+    "status": "todo",
+    "createdAt": "2026-01-08T23:01:25.668Z",
+    "updatedAt": "2026-01-08T23:01:25.671Z"
+  },
+  {
+    "id": 3,
+    "description": "My first task",
+    "status": "todo",
+    "createdAt": "2026-01-08T23:20:41.954Z",
+    "updatedAt": "2026-01-08T23:20:41.955Z"
+  },
+  {
+    "id": 4,
+    "description": "Finish my homework",
+    "status": "todo",
+    "createdAt": "2026-01-08T23:28:37.290Z",
+    "updatedAt": "2026-01-08T23:28:37.291Z"
+  },
+  {
+    "id": 5,
+    "description": "Buy coffee",
+    "status": "todo",
+    "createdAt": "2026-01-08T23:46:06.227Z",
+    "updatedAt": "2026-01-08T23:46:06.228Z"
+  }
+]
